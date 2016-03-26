@@ -2,12 +2,6 @@
 #2/5/16
 #TCSS 480 ASSIGNMENT 5
 
-#about "test file"
-#
-#I'm really not sure what i should have done for the test file my program should never crash,
-#crawl into any sites a normal mozilla browser could, skip broken links, and add all words it
-#finds to the dictionary and not crash if the link has none. But i don't know how to know if 
-#I am gathering every possible link and not gather any that I shouldn't.
 
 #imports
 #from wordcloud import WordCloud (if only)
