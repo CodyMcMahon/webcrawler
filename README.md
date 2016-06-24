@@ -1,5 +1,4 @@
 Cody McMahon
-!*BEST RAN IN PYTHON SHELL*!
 
 
 
