@@ -15,7 +15,7 @@ import operator
 
 #"constants"
 FILENAME = "urls.txt"
-TIMES_TO_PROCESS = 100
+TIMES_TO_PROCESS = 30
 
 #the node class that holds the urls
 class Node:
